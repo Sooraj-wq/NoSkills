@@ -1,4 +1,4 @@
-# noskills
+# NoSkills
 JavaScript code to automate task completion in FutureSkills Prime!
 
 ## Instructions: 
