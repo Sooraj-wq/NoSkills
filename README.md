@@ -9,4 +9,12 @@ JavaScript code to automate task completion in FutureSkills Prime!
 - Copy the copy from noskills.js and paste it into browser console window.
 - Hit enter and watch the tasks getting completed!
 
-  Note: The script does not complete quizzes, The automation script for quiz is under development and will be released soon in this repo.
+## For Quiz
+
+- Open the quiz window and start the quiz
+- Copy the code from quiz.js file and paste it into the browser console.
+- Hit enter and voila! The quizzes are done and dusted!
+
+### Warning: This project is for educational purposes only. Any success is purely accidental.
+
+
