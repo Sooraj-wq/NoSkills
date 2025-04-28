@@ -23,7 +23,7 @@ for (let i=1; i<=5; i++) {
             if(rc){
                 rc.click();
             }else{
-                option.querySelector('.container')
+                option.querySelector('.container').click()
             }
             console.log("Answer clicked");
         }
